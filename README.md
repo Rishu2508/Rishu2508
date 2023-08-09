@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishu2508&no-frame=true&margin-h=8&margin-w=8&column=4" alt="rishu2508" /></a> </p>
 
-<h1 align="center">About Me</h1>
+<h1>About Me</h1>
 
 - 🔭 I’m currently working on **Chat Application from React**
 
