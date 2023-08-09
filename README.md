@@ -5,15 +5,17 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishu2508&no-frame=true&margin-h=8&margin-w=8&column=4" alt="rishu2508" /></a> </p>
 
+<h1 align="center">About Me</h1>
+
 - 🔭 I’m currently working on **Chat Application from React**
 
 - 🌱 I’m currently learning **ReactJS, MongoDB, JavaScript**
 
 - 👯 I’m looking to collaborate on **Open-source projects**
 
-- 👨‍💻 All of my projects are available at [https://rishusagar.me](https://rishusagar.me)
+- 👨‍💻 All of my projects are available at [https://rishusagar.me/#projects](https://rishusagar.me/#projects)
 
-- 📫 How to reach me **sagarrishuu25@gmail.com**
+- 📫 Drop you message at **sagarrishuu25@gmail.com**
 
 - 📄 Know about my experiences [https://rishusagar.me](https://rishusagar.me)
 
