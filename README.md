@@ -1,3 +1,4 @@
+<div align="center"><img align="center" src="https://raw.githubusercontent.com/Rishu2508/Rishu2508/main/me%203.png" alt="My Image" width=120></div>
 <h1 align="center">Hello There, I am Rishu Sagar</h1>
 <h3 align="center">A passionate frontend developer from Uttar pradesh, India</h3>
 
